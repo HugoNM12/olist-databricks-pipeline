@@ -218,3 +218,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Dados: o dataset Olist é CC BY-NC-SA 4.0 e não é versionado aqui
+*.csv
+data/
+
+# Credenciais e configurações locais
+.env
+*.token
